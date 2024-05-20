@@ -128,8 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="agregasi.cpp" />
-    <ClCompile Include="ANAK.H.cpp" />
-    <ClCompile Include="IBU.H.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="anak.h" />
+    <ClInclude Include="ibu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

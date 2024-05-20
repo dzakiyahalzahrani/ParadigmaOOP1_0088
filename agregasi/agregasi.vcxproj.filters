@@ -18,11 +18,13 @@
     <ClCompile Include="agregasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ANAK.H.cpp">
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="anak.h">
       <Filter>Header Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IBU.H.cpp">
+    </ClInclude>
+    <ClInclude Include="ibu.h">
       <Filter>Header Files</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
