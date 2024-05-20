@@ -17,7 +17,7 @@ int main() {
 	varIbu->tambahAANAK(varAnak1);
 	varIbu->tambahAANAK(varAnak2);
 	varIbu2->tambahAANAK(varAnak3);
-	varIbu-2>tambahAANAK(varAnak1);
+	varIbu2->tambahAANAK(varAnak1);
 
 	varIbu->cetakAnak();
 	varIbu2->cetakAnak();
@@ -27,7 +27,5 @@ int main() {
 	delete varAnak1;
 	delete varAnak2;
 	delete varAnak3;
-
-
 
 }
