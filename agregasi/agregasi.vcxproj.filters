@@ -21,5 +21,8 @@
     <ClCompile Include="ANAK.H.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="IBU.H.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

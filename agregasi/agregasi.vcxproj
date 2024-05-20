@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="agregasi.cpp" />
     <ClCompile Include="ANAK.H.cpp" />
+    <ClCompile Include="IBU.H.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
